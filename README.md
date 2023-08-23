@@ -1,2 +1,2 @@
-# TIL-Grind75
+# TIL-Programing
 Grind 75 questions
